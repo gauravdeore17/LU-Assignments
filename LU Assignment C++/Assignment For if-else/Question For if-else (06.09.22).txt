@@ -1,0 +1,15 @@
+1.	Write a program to read marks from keyboard and your program should display equivalent grade according to following table.
+		Marks		Grade
+		100-80		Distinction
+		60-79		First class
+		35-59		Second class
+	0-34		Fail
+2.	Write a program for Solution of quadratic equation
+3.	Make Simple Calculator using switch and if …else if
+4.	Find maximum and minimum of three numbers using ternary operator.
+5.	Check if the given year is leap year or not. ( Use full condition for leap year )
+6.	Convert the case of a given character ( i.e. upper to lower & vice versa ) ( Use getchar & putchar )
+
+
+
+

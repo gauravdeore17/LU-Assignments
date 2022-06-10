@@ -1,0 +1,7 @@
+1. Write a program to Print 1st N natural numbers & calculate their sum &  avg.
+2. Write a program to Print squares / cubes of 1st N natural numbers & calculate their sum & avg.
+3. Write a program to Print all numbers between -n & +n.
+4. Write a program to Print 1st N odd / even numbers & calculate their sum & avg.
+5. Write a program to Print all numbers between given two numbers x & y including x & y, & calculate their sum & avg.
+6. Write a program to print all odd/even numbers between given two numbers x & y including x & y, & their sum & avg.
+7. Write a program to print every third number beginning from 2 until number < 100, & calculate their sum & avg.
